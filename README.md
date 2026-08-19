@@ -7,7 +7,7 @@ A simple Python-based ATM simulator built as a mini project. It replicates the c
 - **Deposit Money** – Add funds to your account balance
 - **Withdraw Money** – Withdraw funds with balance validation
 - **Check Balance** – View current account balance
-- **Account Details** – Display account holder information
+
 - **Print Slip** – Generate a transaction receipt/slip after each operation
 
 ## How to Run
